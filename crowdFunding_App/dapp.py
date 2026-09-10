@@ -171,7 +171,6 @@ def handle_advance(data):
 
 
 def handle_inspect(data):
-    # Permite consultar o estado das campanhas sem alterar o estado
     logger.info(f"Recebido inspect request: {data}")
     payload_hex = "0x" + json.dumps(campaigns).encode("utf-8").hex()
     requests.post(rollup_server + "/report", json={"payload": payload_hex})
