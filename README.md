@@ -16,4 +16,5 @@ Projeto prático de pesquisa e desenvolvimento focado em dominar a arquitetura d
 
 * **09/09:** 17:21 às 21:34 (4h 13min)
 * **10/09:** 13:48 às 15:28 (1h 40min)
-* **Total:** 5 horas e 53 minutos (mais alguns minutos de reflexões sobre a vida)
+* **26/09:** 20:17 às 00:56 (4h 39min)
+* **Total:**10 horas e 32 minutos. (mais algumas horas de reflexões sobre minha escolha profissional)
